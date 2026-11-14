@@ -1,5 +1,10 @@
 # Student Management REST API
 
+[![Java CI with Maven](https://github.com/PaliiiXRAY/24BCS12222_Pallabi-PBLJ/actions/workflows/ci.yml/badge.svg)](https://github.com/PaliiiXRAY/24BCS12222_Pallabi-PBLJ/actions/workflows/ci.yml)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1.2-brightgreen)
+![Java](https://img.shields.io/badge/Java-17%2B-orange)
+![MySQL](https://img.shields.io/badge/Database-MySQL_8.0-blue)
+
 A robust RESTful API built with **Spring Boot**, **Spring Data JPA**, and **MySQL** for managing student records as specified in the assignment.
 
 ---
